@@ -1,2 +1,2 @@
 # taskboard-app
-C# application for deploying
+C# application for deploying and code coverage
