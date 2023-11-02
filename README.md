@@ -1,2 +1,2 @@
 # taskboard-app
-C# application for deploying tests
+C# application for deploying
